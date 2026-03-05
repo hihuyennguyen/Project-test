@@ -10,17 +10,17 @@ Chi tiết hướng dẫn và cấu trúc dự án bên dưới:
 - **manual-test**: Chứa danh sách các Test Case, Checklist và kịch bản test bằng tay, Report test.
 
 ### 🛠 Hướng dẫn sử dụng
-Đối với API Test (Postman) Để xem và chạy bộ API này, bạn làm theo các bước sau: 
+1. Đối với API Test (Postman) Để xem và chạy bộ API này, bạn làm theo các bước sau: 
 
-1.1 Vào thư mục `api-test`
+  1.1 Vào thư mục `api-test`
 
-1.2 Tải file `API Công Thức.postman_collection.json` về máy. 
+  1.2 Tải file `API Công Thức.postman_collection.json` về máy. 
 
-1.3 Mở Postman, chọn `Import` và kéo file vừa tải vào. 
+  1.3 Mở Postman, chọn `Import` và kéo file vừa tải vào. 
 
 (Lưu ý: Đừng quên thiết lập Environment nếu có API Key nhé!)
 
-Đối với Manual Test Mở các file `.xlsx` trong thư mục manual-test để xem chi tiết các bước kiểm thử.
+2. Đối với Manual Test Mở các file `.xlsx` trong thư mục manual-test để xem chi tiết các bước kiểm thử.
 
 ### Url 
 - Coach Cafe công thức: https://congthuc.coachcafe.shop/dashboard
