@@ -1,8 +1,8 @@
 #Dự án này chứa toàn bộ tài liệu kiểm thử cho hệ thống CoachCafe - Tạo công thức món cho quán và lưu trữ các thông tin khách hàng.
 
 #Cấu trúc thư mục
-/api-test: Chứa file Postman Collection dùng để test các đầu API.
-/manual-test: Chứa danh sách các Test Case, Checklist và kịch bản test bằng tay.
+1. api-test: Chứa file Postman Collection dùng để test các đầu API.
+2. manual-test: Chứa danh sách các Test Case, Checklist và kịch bản test bằng tay.
 
 #Hướng dẫn sử dụng
 1. Đối với API Test (Postman)
