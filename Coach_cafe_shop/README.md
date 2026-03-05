@@ -7,7 +7,7 @@ Chi tiết hướng dẫn và cấu trúc dự án bên dưới:
 
 ### 📂 Cấu trúc thư mục
 - **api-test**: Chứa file Postman Collection dùng để test các đầu API.
-- **manual-test**: Chứa danh sách các Test Case, Checklist và kịch bản test bằng tay.
+- **manual-test**: Chứa danh sách các Test Case, Checklist và kịch bản test bằng tay, Report test.
 
 ### 🛠 Hướng dẫn sử dụng
 Đối với API Test (Postman) Để xem và chạy bộ API này, bạn làm theo các bước sau: 
