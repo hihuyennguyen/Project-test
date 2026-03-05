@@ -21,4 +21,7 @@ Chi tiết hướng dẫn và cấu trúc dự án bên dưới:
 (Lưu ý: Đừng quên thiết lập Environment nếu có API Key nhé!)
 
 Đối với Manual Test Mở các file `.xlsx` trong thư mục manual-test để xem chi tiết các bước kiểm thử.
+
+### Url 
+- Coach Cafe công thức: https://congthuc.coachcafe.shop/dashboard
 </details>
