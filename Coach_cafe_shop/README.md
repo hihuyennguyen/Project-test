@@ -12,11 +12,11 @@ Chi tiết hướng dẫn và cấu trúc dự án bên dưới:
 ### 🛠 Hướng dẫn sử dụng
 1. Đối với API Test (Postman) Để xem và chạy bộ API này, bạn làm theo các bước sau: 
 
-  1.1 Vào thư mục `api-test`
+    1.1 Vào thư mục `api-test`
 
-  1.2 Tải file `API Công Thức.postman_collection.json` về máy. 
+    1.2 Tải file `API Công Thức.postman_collection.json` về máy. 
 
-  1.3 Mở Postman, chọn `Import` và kéo file vừa tải vào. 
+    1.3 Mở Postman, chọn `Import` và kéo file vừa tải vào. 
 
 (Lưu ý: Đừng quên thiết lập Environment nếu có API Key nhé!)
 
