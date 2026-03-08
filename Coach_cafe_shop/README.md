@@ -25,4 +25,5 @@ Chi tiết hướng dẫn và cấu trúc dự án bên dưới:
 ### Url 
 - Coach Cafe công thức: https://congthuc.coachcafe.shop/dashboard
 - Swagger documentation : https://api-congthuc.coachcafe.shop/swagger-ui/index.html#/
+- Test case : https://docs.google.com/spreadsheets/d/1oriJvMYzlgSdupxctnDPH_D1q0na-dx9JbvhkX_uGL8/edit?gid=1527065236#gid=1527065236
 </details>
