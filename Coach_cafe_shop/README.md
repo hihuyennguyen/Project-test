@@ -1,29 +1,32 @@
 # 🚀 Project Test - CoachCafe
 
-Chi tiết hướng dẫn và cấu trúc dự án bên dưới:
+*Detailed instructions and project structure are provided below:*
 
 <details>
-<summary><b>👉 Nhấn vào đây để xem hướng dẫn chi tiết</b></summary>
+<summary><b>👉 Click here to view detailed instructions</b></summary>
 
-### 📂 Cấu trúc thư mục
-- **api-test**: Chứa file Postman Collection dùng để test các đầu API.
-- **manual-test**: Chứa danh sách các Test Case, Checklist và kịch bản test bằng tay, Report test.
+### 📂 Folder Structure
+- **api-test**: *Contains the Postman Collection file used to test API endpoints.*
+- **manual-test**: *Contains the list of Test Cases, Checklists, manual test scenarios, and test reports.*
 
-### 🛠 Hướng dẫn sử dụng
-1. Đối với API Test (Postman) Để xem và chạy bộ API này, bạn làm theo các bước sau: 
+### 🛠 Usage Guide
+1. **For API Testing (Postman)**  
+   *To view and run this API collection, follow these steps:*
 
-    1.1 Vào thư mục `api-test`
+   **1.1** Go to the `api-test` folder.  
 
-    1.2 Tải file `API Công Thức.postman_collection.json` về máy. 
+   **1.2** Download the file **`API Công Thức.postman_collection.json`** to your computer.  
 
-    1.3 Mở Postman, chọn `Import` và kéo file vừa tải vào. 
+   **1.3** Open **Postman**, select **`Import`**, and drag the downloaded file into Postman.  
 
-(Lưu ý: Đừng quên thiết lập Environment nếu có API Key nhé!)
+   > *Note: Don’t forget to set up the Environment if an API Key is required!*
 
-2. Đối với Manual Test Mở các file `.xlsx` trong thư mục manual-test để xem chi tiết các bước kiểm thử.
+2. **For Manual Testing**  
+   *Open the `.xlsx` files in the **manual-test** folder to view detailed testing steps.*
 
-### Url 
-- Coach Cafe công thức: https://congthuc.coachcafe.shop/dashboard
-- Swagger documentation : https://api-congthuc.coachcafe.shop/swagger-ui/index.html#/
-- Test case : https://docs.google.com/spreadsheets/d/1oriJvMYzlgSdupxctnDPH_D1q0na-dx9JbvhkX_uGL8/edit?gid=1527065236#gid=1527065236
+### 🌐 URLs
+- **CoachCafe Recipe Dashboard**: https://congthuc.coachcafe.shop/dashboard  
+- **Swagger Documentation**: https://api-congthuc.coachcafe.shop/swagger-ui/index.html#/  
+- **Test Cases**: https://docs.google.com/spreadsheets/d/1oriJvMYzlgSdupxctnDPH_D1q0na-dx9JbvhkX_uGL8/edit?gid=1527065236#gid=1527065236
+
 </details>
